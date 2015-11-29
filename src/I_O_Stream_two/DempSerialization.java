@@ -8,7 +8,7 @@ import java.io.IOException;
  */
 public class DempSerialization {
     public static void main(String[] args) {
-        Student goncharenko = new Student("MMMM", "goncharenko", 15, "gw69djn");
+        Student goncharenko = new Student("MMMM", 15, "gw69djn");
 
         System.out.println(goncharenko);
 
